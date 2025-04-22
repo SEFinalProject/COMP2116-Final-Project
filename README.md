@@ -1,6 +1,15 @@
 # COMP2116-Final-Project
 #The type of software development process:Agile
-#Reason to choose:The game content is simple, quickly seizing the market
-#Usage:Addressing the gap in casual games in the market
+#Reason to choose:
+#1.Flexible requirement changes: The initial core requirements are clear (movement, collision detection, scoring), but frequent adjustments to details (speed control, U optimization) are required during the development process
+#2.Small team collaboration: 3-person teams can iterate quickly and synchronize progress on a daily basis
+#3.Short term delivery verification: Complete a runnable version every week (including basic logic, interface optimization, and feature expansion)
+#4.The waterfall model is not applicable: the requirements are fixed and the stages are strict, making it difficult to adapt to the rapid iteration requirements of course projects
+
+#Usage:
+#1.Main users: casual gamers, programming learners
+#2.Usage scenario:
+##1)Educational purpose: To demonstrate event driven programming and collision detection algorithms
+##2)Entertainment use: Lightweight desktop games, suitable for fragmented time
 
 #Development Process
