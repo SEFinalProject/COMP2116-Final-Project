@@ -13,3 +13,20 @@
 ##2)Entertainment use: Lightweight desktop games, suitable for fragmented time
 
 #Development Process
+#stage                              deliverables                              gongxian/technology
+#requirement analysis               Function List (Mobile, Scoring, etc.)     Markdown document
+#design                             Class diagram, flowchart                  Draw.io
+#code                               Runnable core logic                       Python + Pygame
+#test                               Bug fix record                            PyCharm Debugging Tool
+#deploy                             GitHub repository+executable files        GitHub Actions
+
+#Loran:Core Development - Mobile Logic, Collision Detection
+#Carl:Testing and Optimization - Writing Test Cases, Performance Optimization
+#Jim:Document and Interface Design - Writing Documents, UI Design, and Creating Presentation Videos
+
+#Schedule
+#weeks                              milestone                              detailed tasks
+#1                                  
+#2
+#3
+#4
