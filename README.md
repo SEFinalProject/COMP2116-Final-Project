@@ -25,8 +25,23 @@
 #Jim:Document and Interface Design - Writing Documents, UI Design, and Creating Presentation Videos
 
 #Schedule
-#weeks                              milestone                              detailed tasks
-#1                                  
-#2
-#3
-#4
+#weeks                                        milestone                                        detailed tasks
+#1                                            Requirement analysis and prototype design        Determine game rules and draw U-sketches
+#2                                            Implementation of core functions                 Complete snake movement, collision detection, and scoring logic
+#3                                            Testing and Optimization                         Fix boundary bugs, optimize control response speed
+#4                                            Documents and Delivery                           Record demonstration video and submit to GitHub repository
+
+#Current State
+#Completed function:
+#1.Direction keys control movement 0
+#2.Apple Generation and Scoring 0
+#3.Boundary collision detection
+#Features to be improved:
+#1.Self collision detection (currently not implemented)
+#2.Sound effect support
+
+#Future Plan
+#function                              priority                              person in charge                              implementation plan
+#Difficulty classification             High                                  Carl                                          Add speed selection menu (FPS control)
+#Archive/Read Files                    Medium                                Loran                                         Save game status using JSON
+#Multi-Language Support                Low                                   Jim                                           Add a Chinese English switch button
